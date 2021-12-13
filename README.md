@@ -22,5 +22,5 @@ A 2D scatter plot was utilized using Principal Component Analysis to further red
 
 ## Tradable Cryptocurrencies
 
-![](tradable_crypto_table.PNG)
+![](Resources/tradable_crypto_table.PNG)
 
